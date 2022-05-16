@@ -69,7 +69,7 @@ const SocialData = [
     icon: faGithub,
   },
   {
-    link: "linkedin.com/in/jatin-sharma-0044b2154",
+    link: "https://linkedin.com/in/jatin-sharma-0044b2154/",
     icon: faLinkedin,
   },
   {
